@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi, I'm James 👋</h1>
+<h1 align="center">Hi, I'm James 👋</h1>
 <h3 align="center">Frontend Web Developer | WordPress | HTML | CSS | JavaScript | Python</h3>
 
 ---
